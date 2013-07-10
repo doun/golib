@@ -1,4 +1,4 @@
-package time
+package golib
 import tm "time"
 import "fmt"
 import "errors"
